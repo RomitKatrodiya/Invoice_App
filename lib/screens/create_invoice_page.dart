@@ -78,7 +78,7 @@ class CreateInvoice extends StatelessWidget {
                       style: textStyleProducts(),
                     ),
                     trailing: SizedBox(
-                      width: MediaQuery.of(context).size.width / 2.7,
+                      width: 150,
                       child: Row(
                         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                         children: [
